@@ -6,8 +6,6 @@
 
 ---
 
-<h2 align="center">Getting Started in Python </h2>
-
 ### :file_folder: Files / Directories
 
 #|File|Description
