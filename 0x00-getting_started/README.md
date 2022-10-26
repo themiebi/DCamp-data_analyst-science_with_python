@@ -1,8 +1,7 @@
 0x00. Python - Getting Started in Python
 ========================================
 
-<h1 align="center">Importing Modules </h1>
----
+<h1 align="right">Importing Modules </h1>
 
 Modules helps group together related tools in python, thereby making it easy to know where to look for a particular tool, examples of modules are
  
@@ -60,4 +59,4 @@ Use an import statement to import pyplot from matplotlib using an alias
 -   File: `2-importing_modules.py`
 ---------------------------
 
-<h1 align="center">Creating Variables </h1>
+<h1 align="right">Creating Variables </h1>
