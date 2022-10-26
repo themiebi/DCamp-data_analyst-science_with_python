@@ -1,14 +1,14 @@
 0x00. Python - Getting Started in Python
 ========================================
 
-```
-Modules helps group together related tools in python, thereby making it easy to know where to look for a particular tool, examples of modules are 
-`matplotlib`, create charts
-`pandas`, loads tabular data
-`scikit-learn`, performs machine learning
-`scipy`, contains statistics functions
-`nltk`, works with text data
-```
+
+Modules helps group together related tools in python, thereby making it easy to know where to look for a particular tool, examples of modules are
+ 
+-   `matplotlib`, create charts
+-   `pandas`, loads tabular data
+-   `scikit-learn`, performs machine learning
+-   `scipy`, contains statistics functions
+-   `nltk`, works with text data
 
 **alias or as**
 -   `seaborn as sns`
@@ -48,4 +48,13 @@ Use an import statement to import seaborn using an alias.
 -   File: `1-importing_modules.py`
 ---------------------------
 
+### 2\. Importing a package or library from a module using an alias
 
+Use an import statement to import pyplot from matplotlib using an alias
+
+**Repo:**
+
+-   GitHub repository: `datacamp-data_analyst_with_python`
+-   Directory: `0x00-getting_started`
+-   File: `2-importing_modules.py`
+---------------------------
