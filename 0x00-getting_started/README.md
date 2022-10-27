@@ -89,7 +89,7 @@ Variables helps us reference a piece of data for later use, giving us an easy to
 **Flavours of Variables**
 -   Floats; represent integers or decimal numbers for example `height = 24`; `weight = 75.5`
 
--   Strings; represents text, can contain letters, numbers, spaces and special characters, usually defined by either a single quotation mark `'..'` or with a double quotation mark `".."` uniformly for example `name = "Bayes"`; `breed = 'Golden Retriever'
+-   Strings; represents text, can contain letters, numbers, spaces and special characters, usually defined by either a single quotation mark `'..'` or with a double quotation mark `".."` uniformly for example `name = "Bayes"`; `breed = 'Golden Retriever'`
 
 Exercises
 ---
