@@ -75,28 +75,26 @@ Variables helps us reference a piece of data for later use, giving us an easy to
 -   Case sensitive [`my_var` is different from `MY_VAR`]
 -   When displaying a variable, we use `print` with the variable name in a parenthesis `()` like this `print(height)`, the display the value assigned to `height`
 
----|---|---
-Valid Variables|....|Invalid Variables
-bayes_weight|....|bayes-height
-b|....|bayes!
-bayes 42|....|42bayes
+
+**Valid Variables**
+-   bayes_weight
+-   b
+-   bayes 42
+
+**Invalid Variables**
+-   bayes-height
+-   bayes!
+-   42bayes
 
 **Flavours of Variables**
--   Floats; represent integers or decimal numbers
+-   Floats; represent integers or decimal numbers for example `height = 24`; `weight = 75.5`
 
-`height = 24`
-`weight = 75.5`
-
--   Strings; represents text, can contain letters, numbers, spaces and special characters, usually defined by either a single quotation mark `'..'` or with a double quotation mark `".."` uniformly 
-
-`name = "Bayes"`
-`breed = 'Golden Retriever'
-
+-   Strings; represents text, can contain letters, numbers, spaces and special characters, usually defined by either a single quotation mark `'..'` or with a double quotation mark `".."` uniformly for example `name = "Bayes"`; `breed = 'Golden Retriever'
 
 Exercises
 ---
 
-### 0\. Creating a float
+### 3\. Creating a float
 
 With a script define a variable called `bayes_age` and set it to `4.0`
 
@@ -104,10 +102,10 @@ With a script define a variable called `bayes_age` and set it to `4.0`
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x00-getting_started`
--   File: `0-creating_variables.py`
+-   File: `3-creating_variables.py`
 ---
 
-### 1\. Creating a float
+### 4\. Creating a float
 
 Write a script to displays the variable `bayes_age`.
 
@@ -115,10 +113,10 @@ Write a script to displays the variable `bayes_age`.
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x00-getting_started`
--   File: `1-creating_variables.py`
+-   File: `4-creating_variables.py`
 ---
 
-### 2\. Creating strings
+### 5\. Creating strings
 
 Write a script to define a variable called `favorite_toy whose value is `Mr Squeaky`.
 
@@ -126,10 +124,10 @@ Write a script to define a variable called `favorite_toy whose value is `Mr Sque
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x00-getting_started`
--   File: `2-creating_variables.py`
+-   File: `5-creating_variables.py`
 ---
 
-### 3\. Creating strings
+### 6\. Creating strings
 
 Correct the mistakes in the following code so that it runs without producing syntax errors.
 
@@ -142,6 +140,6 @@ case id = "DATACAMP!123-456?'
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x00-getting_started`
--   File: `3-creating_variables.py`
+-   File: `6-creating_variables.py`
 ---
 
