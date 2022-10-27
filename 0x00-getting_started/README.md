@@ -28,7 +28,7 @@ Exercises
 
 ### 0\. Importing modules without an alias
 
-Use an import statement to import statmodels without using an alias.
+Use an `import` statement to `import` `statmodels` without using an alias.
 
 **Repo:**
 
@@ -39,7 +39,7 @@ Use an import statement to import statmodels without using an alias.
 
 ### 1\. Importing modules with an alias
 
-Use an import statement to import seaborn using an alias.
+Use an `import` statement to `import` `seaborn` using an alias.
 
 **Repo:**
 
@@ -50,7 +50,7 @@ Use an import statement to import seaborn using an alias.
 
 ### 2\. Importing a package or library from a module using an alias
 
-Use an import statement to import pyplot from matplotlib using an alias
+Use an `import` statement to `import` `pyplot` from `matplotlib` using an alias
 
 **Repo:**
 
