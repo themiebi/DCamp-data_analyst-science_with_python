@@ -5,11 +5,11 @@
 <h2 align="center">by Hillary Green-Lerman </h2>
 
 ---
-<p align="center">
+
 ### :file_folder: Files / Directories
 
 #|File|Description
 ---|---|---
 0|[0x00. Python - Getting Started](./0x00-getting_started)|.......
 1|[0x01. Python - Loading Data in Pandas](./0x01-load_data_pandas)|.......
-</p>
+
