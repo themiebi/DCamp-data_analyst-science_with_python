@@ -1,4 +1,4 @@
-<h1 align="center">DataCamp - Data Analyst with Python </h1>
+<h1 align="center">DataCamp - Data Analyst and Science with Python </h1>
 
 <h2 align="center">Introduction To Data Science with Python - Lession Notes </h2>
 
