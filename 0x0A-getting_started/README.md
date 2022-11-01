@@ -31,7 +31,7 @@ Use an `import` statement to `import` `statmodels` without using an alias.
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [0-importing_modules.py](./0-importing_modules.py)
 ---
@@ -42,7 +42,7 @@ Use an `import` statement to `import` `seaborn` using an alias.
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
 -   Directory: `0x00-getting_started`
 -   File: [1-importing_modules.py](./1-importing_modules.py)
 ---
@@ -53,7 +53,7 @@ Use an `import` statement to `import` `pyplot` from `matplotlib` using an alias
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [2-importing_modules.py](./2-importing_modules.py)
 ---
@@ -99,7 +99,7 @@ With a script define a variable called `bayes_age` and set it to `4.0`
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [3-creating_variables.py](./3-creating_variables.py)
 ---
@@ -110,7 +110,7 @@ Write a script to displays the variable `bayes_age`.
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [4-creating_variables.py](./4-creating_variables.py)
 ---
@@ -121,7 +121,7 @@ Write a script to define a variable called `favorite_toy whose value is `Mr Sque
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [5-creating_variables.py](./5-creating_variables.py)
 ---
@@ -137,8 +137,56 @@ case id = "DATACAMP!123-456?'
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [6-creating_variables.py](./6-creating_variables.py)
 ---
 
+<h1 align="left">Functions </h1>
+
+A function is an action, it turns input into output
+
+**For Example:**
+-   pd.read_csv( ); turns a csv file into a table in python
+-   plt.plot( ); turns data into line plot
+-   plt.show( ); displays plot in a new window
+
+**Anatomy of a Function**
+`plt.plot(df.letter_index, df.frequency, label = 'Ransom')`
+
+-   `plt.plot`; is the Function
+-   `df.letter_index, df.frequency,`; are Positional Argument
+-   `label = 'Ransom'`; is a Keyword Argument
+
+**NB:**
+-   Functions begin with the module the function lives in 
+	-   e.g `plt` as in `plt.plot` or `plt.show`
+	-   also `pd` as in `pd.read_csv`
+	-   where `plt` and `pd` are alias for modules plotly and pandas
+-   Then followed by the name of the function e.g `plot`; `show`; `read_csv`
+-   And these functions are always put in parenthesis `( )`
+
+**Types of Input In Function**
+-   Positional Argument; they tell the function how to do its job
+	-   e.g `df.letter_index`, `df.frequency` as in `plt.plot(df.letter_index, df.frequency, label = 'Ransom')`
+-   Keyword Argument; this states the name of the argument, and the argument its self, then an equals sign `(=)`
+	-   e.g `label`; is the name of the argument
+	-   also `'Ransom'`; is the argument
+
+Exercises
+---------
+
+### 7\. Using a Function
+
+The file `ransom.csv` represents the frequency of each letter in a ransom note, write a script using a function to load data into a `DataFrame` from the `CSV` file, then display the DataFrame, with each script in a new line
+
+-   Remember to use a module you have to first `import` it
+-   `r` is DataFrame
+-   `CSV`; means comma-separated value
+
+**Repo:**
+
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
+-   Directory: `0x0A-getting_started`
+-   File: [7-using_functions.py](./7-using_functions.py)
+---
