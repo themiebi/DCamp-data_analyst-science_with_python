@@ -190,3 +190,16 @@ The file `ransom.csv` represents the frequency of each letter in a ransom note, 
 -   Directory: `0x0A-getting_started`
 -   File: [7-using_functions.py](./7-using_functions.py)
 ---
+
+### 8\. Using a Function
+
+Having already loaded the data into the DataFrame, using a function, write a script that plots a graph of `x_values` vs `y_values`, and displays the graph.
+
+-   Remember to use a module you have to first `import` it
+
+**Repo:**
+
+-   GitHub repository: `datacamp-data_analyst_science_with_python`
+-   Directory: `0x0A-getting_started`
+-   File: [8-using_functions.py](./8-using_functions.py)
+
