@@ -32,7 +32,7 @@ Use an `import` statement to `import` `statmodels` without using an alias.
 **Repo:**
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
--   Directory: `0x00-getting_started`
+-   Directory: `0x0A-getting_started`
 -   File: `0-importing_modules.py`
 ---------------------------
 
@@ -54,7 +54,7 @@ Use an `import` statement to `import` `pyplot` from `matplotlib` using an alias
 **Repo:**
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
--   Directory: `0x00-getting_started`
+-   Directory: `0x0A-getting_started`
 -   File: `2-importing_modules.py`
 ---------------------------
 
@@ -100,7 +100,7 @@ With a script define a variable called `bayes_age` and set it to `4.0`
 **Repo:**
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
--   Directory: `0x00-getting_started`
+-   Directory: `0x0A-getting_started`
 -   File: `3-creating_variables.py`
 ---
 
@@ -111,7 +111,7 @@ Write a script to displays the variable `bayes_age`.
 **Repo:**
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
--   Directory: `0x00-getting_started`
+-   Directory: `0x0A-getting_started`
 -   File: `4-creating_variables.py`
 ---
 
@@ -122,7 +122,7 @@ Write a script to define a variable called `favorite_toy whose value is `Mr Sque
 **Repo:**
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
--   Directory: `0x00-getting_started`
+-   Directory: `0x0A-getting_started`
 -   File: `5-creating_variables.py`
 ---
 
@@ -138,7 +138,7 @@ case id = "DATACAMP!123-456?'
 **Repo:**
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
--   Directory: `0x00-getting_started`
--   File: `6-creating_variables.py`
+-   Directory: `0x0A-getting_started`
+-   File: `6-creating_variables.py` - [6-creating_variables.py](./2-importing_modules.py)
 ---
 
