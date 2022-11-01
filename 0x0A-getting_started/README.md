@@ -117,7 +117,7 @@ Write a script to displays the variable `bayes_age`.
 
 ### 5\. Creating strings
 
-Write a script to define a variable called `favorite_toy whose value is `Mr Squeaky`.
+Write a script to define a variable called `favorite_toy` whose value is `Mr Squeaky`.
 
 **Repo:**
 
