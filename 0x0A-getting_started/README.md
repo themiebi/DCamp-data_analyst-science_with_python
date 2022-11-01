@@ -33,8 +33,8 @@ Use an `import` statement to `import` `statmodels` without using an alias.
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x0A-getting_started`
--   File: `0-importing_modules.py`
----------------------------
+-   File: [0-importing_modules.py](./0-importing_modules.py)
+---
 
 ### 1\. Importing modules with an alias
 
@@ -44,8 +44,8 @@ Use an `import` statement to `import` `seaborn` using an alias.
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x00-getting_started`
--   File: `1-importing_modules.py`
----------------------------
+-   File: [1-importing_modules.py](./1-importing_modules.py)
+---
 
 ### 2\. Importing a package or library from a module using an alias
 
@@ -55,8 +55,8 @@ Use an `import` statement to `import` `pyplot` from `matplotlib` using an alias
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x0A-getting_started`
--   File: `2-importing_modules.py`
----------------------------
+-   File: [2-importing_modules.py](./2-importing_modules.py)
+---
 
 <h1 align="left">Creating Variables </h1>
 
@@ -101,7 +101,7 @@ With a script define a variable called `bayes_age` and set it to `4.0`
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x0A-getting_started`
--   File: `3-creating_variables.py`
+-   File: [3-creating_variables.py](./3-creating_variables.py)
 ---
 
 ### 4\. Creating a float
@@ -112,7 +112,7 @@ Write a script to displays the variable `bayes_age`.
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x0A-getting_started`
--   File: `4-creating_variables.py`
+-   File: [4-creating_variables.py](./4-creating_variables.py)
 ---
 
 ### 5\. Creating strings
