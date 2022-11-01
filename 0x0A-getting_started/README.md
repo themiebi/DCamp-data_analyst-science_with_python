@@ -178,7 +178,7 @@ Exercises
 
 ### 7\. Using a Function
 
-The file `ransom.csv` represents the frequency of each letter in a ransom note, write a script using a function to load data into a `DataFrame` from the `CSV` file, then display the DataFrame, after saving it to a variable called `r`
+The file `ransom.csv` represents the frequency of each letter in a ransom note, write a script using a function to load data into a `DataFrame` from the `CSV` file, then display the DataFrame, after saving it to a variable called `df`
 
 -   Remember to use a module you have to first `import` it
 -   `CSV`; means comma-separated value

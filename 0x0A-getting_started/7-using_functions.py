@@ -1,5 +1,5 @@
 import pandas as pd
 
-r = pd.read_csv('ransom.csv')
+df = pd.read_csv('ransom.csv')
 
-print(r)
+print(df)
