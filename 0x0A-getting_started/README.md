@@ -123,7 +123,7 @@ Write a script to define a variable called `favorite_toy whose value is `Mr Sque
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x0A-getting_started`
--   File: `5-creating_variables.py`
+-   File: [5-creating_variables.py](./5-creating_variables.py)
 ---
 
 ### 6\. Creating strings
@@ -139,6 +139,6 @@ case id = "DATACAMP!123-456?'
 
 -   GitHub repository: `datacamp-data_analyst_with_python`
 -   Directory: `0x0A-getting_started`
--   File: `[6-creating_variables.py](./2-importing_modules.py)`
+-   File: [6-creating_variables.py](./6-creating_variables.py)
 ---
 
