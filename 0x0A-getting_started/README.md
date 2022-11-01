@@ -181,7 +181,6 @@ Exercises
 The file `ransom.csv` represents the frequency of each letter in a ransom note, write a script using a function to load data into a `DataFrame` from the `CSV` file, then display the DataFrame, after saving it to a variable called `r`
 
 -   Remember to use a module you have to first `import` it
--   `r` is DataFrame
 -   `CSV`; means comma-separated value
 -   Each scrpit should be in a new line
 
