@@ -14,6 +14,6 @@
 
 <h2 align="center">Introduction To Python </h2>
 
-<h2 align="center">Hugo Bowne-Anderson </h2>
+<h2 align="center">by Hugo Bowne-Anderson </h2>
 
 ### :file_folder: Files / Directories
