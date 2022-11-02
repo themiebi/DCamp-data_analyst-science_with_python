@@ -6,10 +6,12 @@
 
 ### :file_folder: Files / Directories
 
-#|File|Description
+#|File|Description|Chapter
 ---|---|---
-0A|[0x0A. Python - Getting Started](./0x0A-getting_started)|.......
-0B|[0x0B. Python - Loading Data in Pandas](./0x0B-load_data_pandas)|.......
+0A|[0x0A. Python - Getting Started](./0x0A-getting_started)|Chapter 1
+0B|[0x0B. Python - Loading Data in Pandas](./0x0B-load_data_pandas)|Chapter 2
+0C|[0X0C. Python - Plotting Data with Matplotlib](./0x0C-plot_data_matplotlib)|Chapter 3
+0D|[0X0D. Python - Different Types of Plots](./0x0D-different_plots_types)|Chapter 4
 ---
 
 <h2 align="center">Introduction To Python </h2>
