@@ -6,8 +6,7 @@
 
 ### :file_folder: Files / Directories
 
-#|File|Description|.
-
+#|File|Description
 ---|---|---
 0A|[0x0A. Python - Getting Started](./0x0A-getting_started)|....
 0B|[0x0B. Python - Loading Data in Pandas](./0x0B-load_data_pandas)|....
