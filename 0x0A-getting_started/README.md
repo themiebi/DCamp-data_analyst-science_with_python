@@ -150,7 +150,8 @@ A function is an action, it turns input into output
 -   plt.plot( ); turns data into line plot
 -   plt.show( ); displays plot in a new window
 
-Anatomy of Function; plt.plot(df.letter_index, df.frequency, label = 'Ransom')
+**Anatomy of Function**
+-   `plt.plot(df.letter_index, df.frequency, label = 'Ransom')`
 -   `plt.plot`; is the Function
 -   `df.letter_index, df.frequency,`; are Positional Argument
 -   `label = 'Ransom'`; is a Keyword Argument
