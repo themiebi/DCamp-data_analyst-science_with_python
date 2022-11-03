@@ -87,7 +87,6 @@ Variables helps us reference a piece of data for later use, giving us an easy to
 
 **Flavours of Variables**
 -   Floats; represent integers or decimal numbers for example `height = 24`; `weight = 75.5`
-
 -   Strings; represents text, can contain letters, numbers, spaces and special characters, usually defined by either a single quotation mark `'..'` or with a double quotation mark `".."` uniformly for example `name = "Bayes"`; `breed = 'Golden Retriever'`
 
 Exercises
@@ -152,8 +151,8 @@ A function is an action, it turns input into output
 -   plt.show( ); displays plot in a new window
 
 **Anatomy of a Function**
-`plt.plot(df.letter_index, df.frequency, label = 'Ransom')`
 
+-   `plt.plot(df.letter_index, df.frequency, label = 'Ransom')`
 -   `plt.plot`; is the Function
 -   `df.letter_index, df.frequency,`; are Positional Argument
 -   `label = 'Ransom'`; is a Keyword Argument
