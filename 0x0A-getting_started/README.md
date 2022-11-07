@@ -31,7 +31,7 @@ Use an `import` statement to `import` `statmodels` without using an alias.
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [0-importing_modules.py](./0-importing_modules.py)
 ---
@@ -42,7 +42,7 @@ Use an `import` statement to `import` `seaborn` using an alias.
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x00-getting_started`
 -   File: [1-importing_modules.py](./1-importing_modules.py)
 ---
@@ -53,7 +53,7 @@ Use an `import` statement to `import` `pyplot` from `matplotlib` using an alias
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [2-importing_modules.py](./2-importing_modules.py)
 ---
@@ -98,7 +98,7 @@ With a script define a variable called `bayes_age` and set it to `4.0`
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [3-creating_variables.py](./3-creating_variables.py)
 ---
@@ -109,7 +109,7 @@ Write a script to displays the variable `bayes_age`.
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [4-creating_variables.py](./4-creating_variables.py)
 ---
@@ -120,7 +120,7 @@ Write a script to define a variable called `favorite_toy` whose value is `Mr Squ
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [5-creating_variables.py](./5-creating_variables.py)
 ---
@@ -136,7 +136,7 @@ case id = "DATACAMP!123-456?'
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [6-creating_variables.py](./6-creating_variables.py)
 ---
@@ -184,7 +184,7 @@ The file `ransom.csv` represents the frequency of each letter in a ransom note, 
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [7-using_functions.py](./7-using_functions.py)
 ---
@@ -197,7 +197,7 @@ Having already loaded the data into the DataFrame, using a function, write a scr
 
 **Repo:**
 
--   GitHub repository: `datacamp-data_analyst_with_python`
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [8-using_functions.py](./8-using_functions.py)
 
