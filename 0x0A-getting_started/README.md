@@ -1,10 +1,10 @@
 0x0A. Python - Getting Started in Python
 ========================================
 
-<h1 align="left">Importing Modules </h1>
+<h1 align="left">Modules </h1>
 
 Modules helps group together related tools in python, thereby making it easy to know where to look for a particular tool, examples of modules are
- 
+
 -   `matplotlib`, create charts
 -   `pandas`, loads tabular data
 -   `scikit-learn`, performs machine learning
@@ -18,7 +18,7 @@ Modules helps group together related tools in python, thereby making it easy to 
 -   `pandas as pd`
 -   `numpy as np`
 
-**NB:** 
+**NB:**
 -   To use modules you have to import them by using `import` before the module name
 -   Aliasing a module is simply to shorten the module name, when doing that we us `as`
 
@@ -58,7 +58,7 @@ Use an `import` statement to `import` `pyplot` from `matplotlib` using an alias
 -   File: [2-importing_modules.py](./2-importing_modules.py)
 ---
 
-<h1 align="left">Creating Variables </h1>
+<h1 align="left">Variables </h1>
 
 Variables helps us reference a piece of data for later use, giving us an easy to use short cut, and they are defined by the equal sign `(=)`
 
@@ -200,4 +200,4 @@ Having already loaded the data into the DataFrame, using a function, write a scr
 -   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: `0x0A-getting_started`
 -   File: [8-using_functions.py](./8-using_functions.py)
-
+---
