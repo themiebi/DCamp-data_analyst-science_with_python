@@ -1,7 +1,7 @@
 0x0B. - Python - Loading Data in Pandas
 =======================================
 
-<h1 align="left">DataFrame </h1>
+<h1 align="left">Loading DataFrame </h1>
 
 Pandas is a module for working with tabular data, like spreadsheets or databases. With pandas we can do the following
 -   Search for particular rows and columns from loaded data
