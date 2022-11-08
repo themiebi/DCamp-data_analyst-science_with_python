@@ -66,3 +66,42 @@ We've loaded the credit card records of our four suspects into a DataFrame calle
 -   Directory: 0x0B-loading_data_in_pandas
 -   File: [1-dataframe.py](./1-dataframe.py)
 ---
+
+<h1 align="left">Selecting Columns </h1>
+
+The first way we use data load from a CSV file is by selecting columns. By selecting columns we will be getting all the values from a particular column in a DataFrame
+
+**Essence of Selecting Columns:**
+-   Used in calculations
+	-   `credit_records.price.sum( )`; this code selects the column `price` and calls the method `.sum` on that column
+-   Used as the input of a function e.g plot data
+	-   `plt.plot(ransom['letter'], ransom['frequency']; this will create a plot of the `frequency` of each `letter` in the `ransom` as the data comes from a DataFrame `ransom` with columns `letter and frequency`
+
+**How to Select Columns:**
+-   Selecting with a bracket and string notation - `suspects = credit_records['suspect']`
+-   Selecting with a dot notation - `price = credit_records.price`
+
+**Note:**
+-   Column names with spaces or special characters `(- or ?)` are put in brackets and strings
+-   Brackets `[ ]` are not the same as Parenthesis `( )`
+-   Parenthesis are used when we want to use the DataFrame as a function
+
+Exercise
+--------
+
+### 2\. Two methods for selecting columns
+
+Once again, we've loaded the credit card records of our four suspects into a DataFrame called `credit_records`. Let's examine the items that they've purchased.
+
+-   The `pandas` module has been imported under the alias `pd`.
+-   The DataFrame `credit_records` has already been imported.
+
+Write a script that selects from the DataFrame `items`
+-   the column `item` from `credit_records` using brackets and string notation and display the column `items`
+-   the column `item` from `credit_records` using dot notation and display the column `items`
+
+**Repo:**
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
+-   Directory: 0x0B-loading_data_in_pandas
+-   File: [2-selecting_columns.py](./2-selecting_columns.py)
+---
