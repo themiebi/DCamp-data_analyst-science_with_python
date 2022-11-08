@@ -1,7 +1,7 @@
 0x0A. Python - Getting Started in Python
 ========================================
 
-<h1 align="left">Modules </h1>
+<h1 align="left">Importing Modules </h1>
 
 Modules helps group together related tools in python, thereby making it easy to know where to look for a particular tool, examples of modules are
 
@@ -58,7 +58,7 @@ Use an `import` statement to `import` `pyplot` from `matplotlib` using an alias
 -   File: [2-importing_modules.py](./2-importing_modules.py)
 ---
 
-<h1 align="left">Variables </h1>
+<h1 align="left">Creating Variables </h1>
 
 Variables helps us reference a piece of data for later use, giving us an easy to use short cut, and they are defined by the equal sign `(=)`
 
@@ -141,7 +141,7 @@ case id = "DATACAMP!123-456?'
 -   File: [6-creating_variables.py](./6-creating_variables.py)
 ---
 
-<h1 align="left">Functions </h1>
+<h1 align="left">Using Functions </h1>
 
 A function is an action, it turns input into output
 
