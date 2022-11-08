@@ -132,8 +132,7 @@ Another junior detective is examining a DataFrame of Missing Puppy Reports. He's
 -   The `pandas` module has been loaded under the alias `pd`,
 -   and the DataFrame is called `mpr`.
 
-**4a:**   
-Inspect the DataFrame `mpr` using `info( )`.
+**4a:** Inspect the DataFrame `mpr` using `info( )`.
 
 **4b:**
 Correct the mistakes in the code so that it runs without errors.
