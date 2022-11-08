@@ -105,3 +105,47 @@ Write a script that selects from the DataFrame `items`
 -   Directory: 0x0B-loading_data_in_pandas
 -   File: [2-selecting_columns.py](./2-selecting_columns.py)
 ---
+
+### 3\. Correcting column selection errors
+
+A junior detective tried to access the location columns of `credit_records`, but he made some mistakes. Help correct his code so that we can search for suspicious purchases.
+
+-   In all exercises going forward, `pandas` will be imported as `pd`. 
+-   The DataFrame `credit_records` has already been imported.
+
+Correct the code so that it runs without errors.
+
+```
+location = credit_records[location]
+items = credit_records."item"
+```
+**Repo:**
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
+-   Directory: 0x0B-loading_data_in_pandas
+-   File: [3-selecting_columns.py](./3-selecting_columns.py)
+---
+
+### 4\. More column selection mistakes
+
+Another junior detective is examining a DataFrame of Missing Puppy Reports. He's made some mistakes that cause the code to fail.
+
+-   The `pandas` module has been loaded under the alias `pd`,
+-   and the DataFrame is called `mpr`.
+
+**4a:**   
+Inspect the DataFrame `mpr` using `info( )`.
+
+**4b:**
+Correct the mistakes in the code so that it runs without errors.
+
+```
+name = mpr.Dog Name
+is_missing = mpr.Missing?
+```
+
+**Repo:**
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
+-   Directory: 0x0B-loading_data_in_pandas
+-   File: [4-selecting_columns.py](./4-selecting_columns.py)
+---
+
