@@ -119,6 +119,7 @@ Correct the code so that it runs without errors.
 location = credit_records[location]
 items = credit_records."item"
 ```
+
 **Repo:**
 -   GitHub repository: `datacamp-data_analyst-science_with_python`
 -   Directory: 0x0B-loading_data_in_pandas
@@ -148,3 +149,90 @@ is_missing = mpr.Missing?
 -   File: [4-selecting_columns.py](./4-selecting_columns.py)
 ---
 
+<h1 align="left">Selecting Rows </h1>
+
+To select rows we use logical statements. In python, logical statements checks for a relationship between two values, such as equal to `=` or greater than/lesser than `>` / `<` and returns `True` or `False` 
+
+**For Example:** 
+```
+question = 12 * 8
+solution = 96
+```
+
+If we compare the variables of `question` and `solution` as below
+
+```
+question == solution
+True
+```
+
+This test if the two variables are the same, in this case they are, so it returns `True`. The `True` python returns is a special data type called `Booleans`
+
+**Booleans** 
+-   This is a data type
+-   We use it to select rows where the value of a column matches a specific value
+-   There are only two booleans, `True` or `False`
+
+**Types of Logic**
+-   `>`
+-   `<`
+-   `==`
+-   `>=`
+-   `<=`
+-   `!=`
+
+**Example:**
+
+**1**
+```
+price = 2.25
+price > 5.00
+
+False
+```
+
+**2**
+```
+name = 'bayes'
+name !='Bayes"
+
+True
+```
+
+In a DataFrame, we can compare one value to all the values in the DataFrame
+
+**Examine The Following:**
+
+**1.** - credit_records[credit_records.price > 20.00]
+	-   `credit_records`, is the DataFrame
+	-   `[ ]`, is a bracket or square bracket
+	-   `credit_records.price > 20.00`, is a logical statement
+This means, in all rows of the DataFrame `credit_records` the price is greater than 20.00
+
+**2.** - credit_records[credit_records.suspect == 'Ronald Alymer Fisher']
+	-   in the case `credit_records.suspect == 'Ronald Alymer Fisher'` is the logical statement
+This means in all rows of the DataFrame, `credit_records` the suspect is equal to Ronald Alymer Fisher
+
+Exercises
+---------
+
+### 5\. Logical testing
+Let's practice writing logical statements and displaying the output.
+
+Recall that we use the following operators:
+
+-   `==` tests that two values are equal.
+-   `!=` tests that two values are not equal.
+-   `>` and `<` test that greater than or less than, respectively.
+-   `>=` and `<=` test greater than or equal to or less than or equal to, respectively.
+
+Write the following code of logical testing
+-   The variable `height_inches` represents the height of a suspect. Is `height_inches` greater than `70` inches?
+-   The variable `plate1` represents a license plate number of a suspect. Is it equal to `FRQ123?`
+-   The variable `fur_color` represents the color of Bayes' fur. Check that `fur_color` is not equal to `"brown"`.
+
+**Repo:**
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
+-   Directory: 0x0B-loading_data_in_pandas
+-   File: [5-logical_operators.py](./5-logical_operators.py)
+---
