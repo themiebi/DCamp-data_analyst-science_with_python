@@ -75,7 +75,7 @@ The first way we use data load from a CSV file is by selecting columns. By selec
 -   Used in calculations
 	-   `credit_records.price.sum( )`; this code selects the column `price` and calls the method `.sum` on that column
 -   Used as the input of a function e.g plot data
-	-   `plt.plot(ransom['letter'], ransom['frequency']; this will create a plot of the `frequency` of each `letter` in the `ransom` as the data comes from a DataFrame `ransom` with columns `letter and frequency`
+	-   `plt.plot(ransom['letter'], ransom['frequency']`; this will create a plot of the `frequency` of each `letter` in the `ransom` as the data comes from a DataFrame `ransom` with columns `letter and frequency`
 
 **How to Select Columns:**
 -   Selecting with a bracket and string notation - `suspects = credit_records['suspect']`
