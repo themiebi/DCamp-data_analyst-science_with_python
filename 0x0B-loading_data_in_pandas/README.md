@@ -238,3 +238,31 @@ Write the following code of logical testing
 -   Directory: 0x0B-loading_data_in_pandas
 -   File: [5-logical_operators.py](./5-logical_operators.py)
 ---
+
+### 6\. Selecting missing puppies
+In our DataFrame of missing puppies, which is loaded as `mpr`. 
+Let's write code to the following.
+
+-   Select the dogs where `Age` is greater than `2`.
+-   Select the dogs whose `Status` is equal to `Still Missing`.
+-   Select all dogs whose `Dog Breed` is not equal to `Poodle`.
+
+**Repo:**
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
+-   Directory: 0x0B-loading_data_in_pandas
+-   File: [6-logical_operators.py](./6-logical_operators.py)
+---
+
+### 7\. Narrowing the list of suspects
+
+We'd like to narrow this list down, so we obtained credit card records for each suspect. We'd like to know if any of them recently purchased dog treats to use in the kidnapping. If they did, they would have visited `'Pet Paradise'`.
+
+-   The credit records have been loaded into a DataFrame called `credit_records`.
+
+With a code select rows of `credit_records` such that the column `location` is equal to `'Pet Paradise'`.
+
+**Repo:**
+-   GitHub repository: `datacamp-data_analyst-science_with_python`
+-   Directory: 0x0B-loading_data_in_pandas
+-   File: [7-logical_operators.py](./7-logical_operators.py)
+---
