@@ -181,9 +181,7 @@ This test if the two variables are the same, in this case they are, so it return
 -   `<=`
 -   `!=`
 
-**Example:**
-
-**1**
+**Example 1:**
 ```
 price = 2.25
 price > 5.00
@@ -191,7 +189,7 @@ price > 5.00
 False
 ```
 
-**2**
+**Example 2:**
 ```
 name = 'bayes'
 name !='Bayes"
@@ -203,14 +201,18 @@ In a DataFrame, we can compare one value to all the values in the DataFrame
 
 **Examine The Following:**
 
-**1.** - credit_records[credit_records.price > 20.00]
+**Example 1.** 
+-   credit_records[credit_records.price > 20.00]
 	-   `credit_records`, is the DataFrame
 	-   `[ ]`, is a bracket or square bracket
 	-   `credit_records.price > 20.00`, is a logical statement
+
 This means, in all rows of the DataFrame `credit_records` the price is greater than 20.00
 
-**2.** - credit_records[credit_records.suspect == 'Ronald Alymer Fisher']
+**Example 2.** 
+-   credit_records[credit_records.suspect == 'Ronald Alymer Fisher']
 	-   in the case `credit_records.suspect == 'Ronald Alymer Fisher'` is the logical statement
+
 This means in all rows of the DataFrame, `credit_records` the suspect is equal to Ronald Alymer Fisher
 
 Exercises
