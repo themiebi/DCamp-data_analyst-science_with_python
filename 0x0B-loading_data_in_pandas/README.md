@@ -174,12 +174,12 @@ This test if the two variables are the same, in this case they are, so it return
 -   There are only two booleans, `True` or `False`
 
 **Types of Logic**
--   `>`
--   `<`
--   `==`
--   `>=`
--   `<=`
--   `!=`
+-   `>` - greater than
+-   `<` - lesser than
+-   `==` - equal to
+-   `>=` - greater than or equal to 
+-   `<=` - lesser than or equal to
+-   `!=` - not equal to
 
 **Example 1:**
 ```
