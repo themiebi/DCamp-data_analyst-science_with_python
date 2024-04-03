@@ -1,4 +1,4 @@
-<h1 align="center">DataCamp - Data Analyst - Science with Python </h1>
+<h1 align="center">DataCamp - Data Analyst with Python </h1>
 
 ### :file_folder: Files / Directories
 
