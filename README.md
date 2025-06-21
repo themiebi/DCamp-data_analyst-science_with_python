@@ -2,7 +2,7 @@
 
 ### :file_folder: Files / Directories
 
-#|File|Description
+#|File|Tutor
 ---|---|---
 00|[00. Python - Introduction to Data Science](./00-Introduction-to-Data_Science)|Hillary Green-Lerman
 
